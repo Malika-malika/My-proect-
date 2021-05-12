@@ -43,9 +43,8 @@ html, body, .grid-detail  { height: 100%; margin: 0; }
    padding-right: 10px;
    border-bottom: 2px solid gray;
    font-size: 14px;
-<<<<<<< HEAD
 }
-=======
-   
+.comments{
+   font-size: 20px;
+   text-align: center;
 }
->>>>>>> 91dc17ec5bfb62b6b6b851881667cfa5a0dc473f

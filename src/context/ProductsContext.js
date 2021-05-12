@@ -94,6 +94,14 @@ const ProductsContextProvider = ({ children }) => {
     });
   };
 
+  const addFavourites = async (newFavour, id) => {
+    await axios.patch(`http://localhost:8000/products/${id}`, {
+      favourites: newFavour,
+    });
+
+    showDetails(id);
+  };
+
   const addComment = async (id) => {
     let { data } = await axios(`http://localhost:8000/products/${id}`);
     dispatch({
@@ -247,7 +255,8 @@ const ProductsContextProvider = ({ children }) => {
         checkProductInCart,
         deleteFromCart,
         addOrder,
-        getOrders
+        getOrders,
+        addFavourites
       }}
     >
       {children}
