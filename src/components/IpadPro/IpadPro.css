@@ -1,0 +1,12 @@
+.ipadpro{
+   text-align: center;
+}
+.ipad{
+   font-family: Arial, sans-serif;
+   font-size: 4rem;
+   font-weight: 800;
+   background: linear-gradient(225deg, #ff5ea7 36.04%, #010fcb 88.83%, #ff6530 220.3%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+
+}

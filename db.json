@@ -1,0 +1,213 @@
+{
+  "products": [
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 1,
+      "category": "Mac",
+      "name": "Macbook Air",
+      "description": "M1 has the fastest CPU we’ve ever made. With that kind of processing speed, MacBook Air can take on new extraordinarily intensive tasks like professional-quality editing and action-packed gaming. But the 8‑core CPU on M1 isn‘t just up to 3.5x faster than the previous generation2 — it balances high-performance cores with efficiency cores that can still crush everyday jobs while using just a tenth of the power.",
+      "price": 1249,
+      "display": "13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors",
+      "memory": "16GB",
+      "img1": "https://www.climaxcomputer.com/wp-content/uploads/2020/05/New-Apple-Macbook-Air-Gold-New.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 2,
+      "category": "Mac",
+      "name": "Macbook Pro13",
+      "description": "The M1 chip makes MacBook Pro outrageously fast and powerful. Its 8‑core CPU rips through complex workflows and heavy workloads, with up to 2.8x faster processing performance than the previous generation2 — all with unbelievable energy efficiency.",
+      "price": 1499,
+      "display": "13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors",
+      "memory": "16GB",
+      "img1": "https://www.apple.com/v/macbook-pro-13/g/images/specs/finish_lockup_13_inch__f820oxis9wq6_small.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 3,
+      "category": "Mac",
+      "name": "Macbook Pro16",
+      "description": "Designed for those who defy limits and change the world, the 16-inch MacBook Pro is by far the most powerful notebook we have ever made. With an immersive Retina display, superfast processors, advanced graphics, the largest battery capacity ever in a MacBook Pro, Magic Keyboard, and massive storage, it's the ultimate pro notebook for the ultimate user.",
+      "price": 2799,
+      "display": "16‑inch (diagonal) LED‑backlit display with IPS technology; 3072‑by‑1920 native resolution at 226 pixels per inch with support for millions of colors",
+      "memory": "16GB",
+      "img1": "https://www.apple.com/v/macbook-pro-13/g/images/specs/finish_lockup_13_inch__f820oxis9wq6_small.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 4,
+      "category": "Mac",
+      "name": "iMac 24",
+      "description": "See it all in sharp, glorious detail on the immersive 24 inch 4.5K Retina display. The P3 wide color gamut brings what you’re watching to life in over a billion colors. Images shine with a brilliant 500 nits of brightness. Industry-leading anti reflective coating delivers greater comfort and readability. And True Tone technology automatically adjusts the color temperature of your display to the ambient light of your environment, for a more natural viewing experience. So whether you’re editing photos, working on presentations, or watching your favorite shows and movies, everything looks incredible on iMac.",
+      "price": 1699,
+      "display": "16‑inch (diagonal) LED‑backlit display with IPS technology; 3072‑by‑1920 native resolution at 226 pixels per inch with support for millions of colors",
+      "memory": "16GB",
+      "img1": "https://www.apple.com/v/imac-24/b/images/specs/colors_blue__egmgwaytk3ue_large.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 5,
+      "category": "Mac",
+      "name": "iMac 27",
+      "description": "The 27‑inch iMac is packed with powerful tools and apps that let you take any idea to the next level. Its superfast processors and graphics, massive memory, and all-flash storage can tackle any workload with ease. And with its advanced audio and video capabilities and stunning 5K Retina display, everything you do is larger than life.",
+      "price": 2299,
+      "display": "27-inch (diagonal) 5K Retina display, 5120 by 2880 resolution with support for one billion colors, 500 nits brightness, Wide color (P3),True Tone technology,Configurable with nano-texture glass",
+      "memory": "16GB",
+      "img1": "https://www.apple.com/v/imac-24/b/images/specs/colors_blue__egmgwaytk3ue_large.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 6,
+      "category": "Ipad",
+      "name": "Ipad Pro",
+      "description": "12.9-inch (diagonal) mini-LED backlit Multi Touch display with IPS technology, 2D backlighting system with 2596 full array local dimming zones, 2732-by-2048-pixel resolution at 264 pixels per inch (ppi), ProMotion technology, Wide color display (P3), True Tone display, Fingerprint-resistant oleophobic coating, Fully laminated display, Antireflective coating, 1.8% reflectivity, 600 nits max brightness, 1000 nits max full-screen brightness; 1600 nits peak brightness (HDR), 1,000,000:1 contrast ratio,Supports Apple Pencil (2nd generation)",
+      "price": 2299,
+      "display": "27-inch (diagonal) 5K Retina display, 5120 by 2880 resolution with support for one billion colors, 500 nits brightness, Wide color (P3),True Tone technology,Configurable with nano-texture glass",
+      "memory": "128GB",
+      "img1": "https://www.apple.com/v/ipad-pro/af/images/specs/12_9_in_ipad_pro__dqrvlzepem4i_large.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 7,
+      "category": "Ipad",
+      "name": "Ipad Air",
+      "description": "With A14 Bionic, you have the power to bring your ideas to life. Shoot a 4K video, then edit it right on iPad Air. Use the second‑generation Apple Pencil to paint and illustrate with dynamic brushes and subtle shading.1 And with the enhanced graphics and machine learning performance of A14 Bionic, you can unlock new creative possibilities with photo editing, music creation, and more.",
+      "price": 1199,
+      "display": "With the incredible versatility of iPad Air, you can work any way you want. Use the Smart Keyboard Folio, or attach the Magic Keyboard for responsive typing and a built‑in trackpad.1 It’s perfect for the things you need to do, like sending an email. Or the things you want to do, like writing a short story. And with all‑day battery life,2 iPad Air is ready to work for as long as you need it.",
+      "memory": "256GB",
+      "img1": "https://www.apple.com/v/ipad-air/m/images/specs/display__uzcc4pn2huqm_large.jpg"
+    },
+    {
+      
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 8,
+      "category": "Ipad",
+      "name": "Ipad Air",
+      "description": "The new iPad combines tremendous capability with unmatched ease of use and versatility. With the powerful A12 Bionic chip, support for Apple Pencil and the Smart Keyboard, and the amazing new things you can do with iPadOS 14, now there’s even more to love about iPad.",
+      "price": 5299,
+      "display": "10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology, 2160-by-1620-pixel resolution at 264 pixels per inch (ppi), 500 nits brightness, Fingerprint-resistant oleophobic coating, Supports Apple Pencil (1st generation)",
+      "memory": "128GB",
+      "img1": "https://www.apple.com/v/ipad-10.2/h/images/specs/ipad_gold__gmhtuc6sdcmu_large.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 9,
+      "category": "Ipad",
+      "name": "Ipad",
+      "description": "The new iPad combines tremendous capability with unmatched ease of use and versatility. With the powerful A12 Bionic chip, support for Apple Pencil and the Smart Keyboard, and the amazing new things you can do with iPadOS 14, now there’s even more to love about iPad.",
+      "price":529,
+      "display": "10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology, 2160-by-1620-pixel resolution at 264 pixels per inch (ppi), 500 nits brightness, Fingerprint-resistant oleophobic coating, Supports Apple Pencil (1st generation)",
+      "memory": "128GB",
+      "img1": "https://www.apple.com/v/ipad-10.2/h/images/specs/ipad_gold__gmhtuc6sdcmu_large.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 10,
+      "category": "Ipad",
+      "name": "Ipad",
+      "description": "iPad mini packs over 3 million pixels into a 7.9 inch display. And we made them all count. Whether you’re reading in the park or editing video in your home office, the high brightness, wide color, and antireflective coating offer true-to-life detail and razor-sharp text. And True Tone dynamically adjusts white balance so images look natural in any light.",
+      "price": 2199,
+      "display": "7.9-inch (diagonal) LED-backlit Multi-Touch display, 2048-by-1536 resolution at 326 pixels per inch (ppi), Wide color display (P3), True Tone display, Fingerprint-resistant oleophobic coating, Fully laminated display, Antireflective coating, 1.8% reflectivity, 500 nits brightness, Supports Apple Pencil (1st generation)",
+      "memory": "2TB",
+      "img1": "https://www.apple.com/v/ipad/compare/y/images/overview/ipad_pro_12_9_5th_gen_spacegray__yazkcyfwq9ua_large.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 11,
+      "category": "Iphone",
+      "name": "Iphone Pro",
+      "description": "5G goes Pro. A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.",
+      "price":999,
+      "display": "Super Retina XDR display, 6.7 inch (diagonal) all screen OLED display, 2778 by 1284-pixel resolution at 458 ppi, The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
+      "memory": "2TB",
+      "img1": "https://www.apple.com/v/iphone-12-pro/f/images/specs/hero_iphone_12_pro_max__bjhv35s6o5bm_large.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 12,
+      "category": "Iphone",
+      "name": "Iphone 11",
+      "description": "5G goes Pro. A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.",
+      "price":599,
+      "display": "Super Retina XDR display, 6.7 inch (diagonal) all screen OLED display, 2778 by 1284-pixel resolution at 458 ppi, The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
+      "memory": "64GB",
+      "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=441&amp;hei=529&amp;fmt=jpeg&amp;qlt=95&amp;.v=1567022175704"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 12,
+      "category": "Iphone",
+      "name": "Iphone 12",
+      "description": "5G goes. A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.",
+      "price":699,
+      "display": "Super Retina XDR display, 6.1 inch (diagonal) all screen OLED display, 2532 by 1170-pixel resolution at 460 ppi, The iPhone 12 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally (actual viewable area is less).",
+      "memory": "256GB",
+      "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=441&amp;hei=529&amp;fmt=jpeg&amp;qlt=95&amp;.v=1567022175704"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 13,
+      "category": "Iphone",
+      "name": "Iphone SE",
+      "description": "iPhone SE packs our powerful A13 Bionic chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for.",
+      "price":399,
+      "display": "Retina HD display, 4.7-inch (diagonal) widescreen LCD Multi Touch display with IPS technology, 1334-by-750-pixel resolution at 326 ppi, 1400:1 contrast ratio (typical), True, Tone display, Wide color display (P3), Haptic Touch, 625 nits max brightness (typical), Fingerprint-resistant oleophobic coating, Display Zoom, Reachability",
+      "memory": "256GB",
+      "img1": "https://www.apple.com/v/iphone-se/d/images/overview/hero_static__fei5virmzt26_large.jpg"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 14,
+      "category": "Iphone",
+      "name": "Iphone X",
+      "description": "iPhone X packs our powerful A13 Bionic chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for.",
+      "price":499,
+      "display": "Retina HD display, 4.7-inch (diagonal) widescreen LCD Multi Touch display with IPS technology, 1334-by-750-pixel resolution at 326 ppi, 1400:1 contrast ratio (typical), True, Tone display, Wide color display (P3), Haptic Touch, 625 nits max brightness (typical), Fingerprint-resistant oleophobic coating, Display Zoom, Reachability",
+      "memory": "256GB",
+      "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-select-2019-family?wid=441&amp;hei=529&amp;fmt=jpeg&amp;qlt=95&amp;.v=1550795424612"
+    },
+    {
+      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "id": 15,
+      "category": "Iphone",
+      "name": "Iphone 12 mini",
+      "description": "5G goes. A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.",
+      "price":699,
+      "display": "Super Retina XDR display, 6.1 inch (diagonal) all screen OLED display, 2532 by 1170-pixel resolution at 460 ppi, The iPhone 12 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally (actual viewable area is less).",
+      "memory": "256GB",
+      "img1": "https://www.apple.com/v/iphone/compare/u/images/overview/compare_iphone12_black__dd4l4x5fmg66_large.jpg"
+    }
+  ],
+  "users": [
+    {
+      "email": "akylaj.anarbekova@gmail.com",
+      "password": "310701",
+      "isAdmin": true,
+      "id": "Pvf3FtW8L4c8rfKie0Yz9ZOSAMp2"
+    },
+    {
+      "email": "test10@gmail.com",
+      "id": "1U2S2IdoyvdYb6cGbYyQspXHMEJ3",
+      "isAdmin": false
+    },
+    {
+      "email": "malika15@gmail.com",
+      "id": "VIgg4jqEiXUfXLjhYqlmnfhv9O52",
+      "isAdmin": false
+    },
+    {
+      "email": "malika@gmail.com",
+      "id": "Sy1AIgWFS0TEdlB3mUGlvgH9RkZ2",
+      "isAdmin": false
+    },
+    {
+      "email": "malika98@gmail.com",
+      "id": "vgO9xxoIx0e33kGratq2wkw9XgM2",
+      "isAdmin": false
+    }
+  ],
+  "orders": [
+    {}
+  ]
+
+}

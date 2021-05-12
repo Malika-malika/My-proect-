@@ -1,0 +1,51 @@
+html, body, .grid-detail  { height: 100%; margin: 0; }
+
+.container{
+   width: 1000px;
+}
+.grid-detail {
+   margin-top: 40px;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   grid-template-rows: 1fr;
+   gap: 0px 0px;
+
+
+}
+.detail-size{
+   text-align: center;
+}
+.detail-block{
+   font-size: 20px;
+   line-height: 40px;
+}
+.block-inp{
+   font-size: 20px;
+}
+.block-inp::placeholder{
+   font-size: 15px;
+   padding: 40px;
+   margin-left: 40px;
+   margin-right: 40px;
+}
+.title{
+   text-align: center;
+   font-size: 25px;
+   padding: 20px;
+}
+.paragraf{
+   padding: 30px 0;
+}
+.list{
+   margin-top: 20px;
+}
+.detail-border{
+   padding-right: 10px;
+   border-bottom: 2px solid gray;
+   font-size: 14px;
+<<<<<<< HEAD
+}
+=======
+   
+}
+>>>>>>> 91dc17ec5bfb62b6b6b851881667cfa5a0dc473f
