@@ -1,7 +1,20 @@
 {
   "products": [
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        },
+        {
+          "email": "malika98@gmail.com"
+        }
+      ],
       "id": 1,
       "category": "Mac",
       "name": "Macbook Air",
@@ -9,10 +22,27 @@
       "price": 1249,
       "display": "13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors",
       "memory": "16GB",
-      "img1": "https://www.climaxcomputer.com/wp-content/uploads/2020/05/New-Apple-Macbook-Air-Gold-New.jpg"
+      "img1": "https://www.climaxcomputer.com/wp-content/uploads/2020/05/New-Apple-Macbook-Air-Gold-New.jpg",
+      "comments": [
+        {
+          "email": "malika98@gmail.com",
+          "comment": "hello",
+          "date": "12.05.2021, 17:15:33"
+        }
+      ]
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 2,
       "category": "Mac",
       "name": "Macbook Pro13",
@@ -23,7 +53,17 @@
       "img1": "https://www.apple.com/v/macbook-pro-13/g/images/specs/finish_lockup_13_inch__f820oxis9wq6_small.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 3,
       "category": "Mac",
       "name": "Macbook Pro16",
@@ -34,7 +74,17 @@
       "img1": "https://www.apple.com/v/macbook-pro-13/g/images/specs/finish_lockup_13_inch__f820oxis9wq6_small.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 4,
       "category": "Mac",
       "name": "iMac 24",
@@ -45,7 +95,17 @@
       "img1": "https://www.apple.com/v/imac-24/b/images/specs/colors_blue__egmgwaytk3ue_large.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 5,
       "category": "Mac",
       "name": "iMac 27",
@@ -56,7 +116,17 @@
       "img1": "https://www.apple.com/v/imac-24/b/images/specs/colors_blue__egmgwaytk3ue_large.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 6,
       "category": "Ipad",
       "name": "Ipad Pro",
@@ -67,7 +137,17 @@
       "img1": "https://www.apple.com/v/ipad-pro/af/images/specs/12_9_in_ipad_pro__dqrvlzepem4i_large.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 7,
       "category": "Ipad",
       "name": "Ipad Air",
@@ -78,8 +158,17 @@
       "img1": "https://www.apple.com/v/ipad-air/m/images/specs/display__uzcc4pn2huqm_large.jpg"
     },
     {
-      
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 8,
       "category": "Ipad",
       "name": "Ipad Air",
@@ -90,18 +179,38 @@
       "img1": "https://www.apple.com/v/ipad-10.2/h/images/specs/ipad_gold__gmhtuc6sdcmu_large.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 9,
       "category": "Ipad",
       "name": "Ipad",
       "description": "The new iPad combines tremendous capability with unmatched ease of use and versatility. With the powerful A12 Bionic chip, support for Apple Pencil and the Smart Keyboard, and the amazing new things you can do with iPadOS 14, now there’s even more to love about iPad.",
-      "price":529,
+      "price": 529,
       "display": "10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology, 2160-by-1620-pixel resolution at 264 pixels per inch (ppi), 500 nits brightness, Fingerprint-resistant oleophobic coating, Supports Apple Pencil (1st generation)",
       "memory": "128GB",
       "img1": "https://www.apple.com/v/ipad-10.2/h/images/specs/ipad_gold__gmhtuc6sdcmu_large.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 10,
       "category": "Ipad",
       "name": "Ipad",
@@ -112,67 +221,127 @@
       "img1": "https://www.apple.com/v/ipad/compare/y/images/overview/ipad_pro_12_9_5th_gen_spacegray__yazkcyfwq9ua_large.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 11,
       "category": "Iphone",
       "name": "Iphone Pro",
       "description": "5G goes Pro. A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.",
-      "price":999,
+      "price": 999,
       "display": "Super Retina XDR display, 6.7 inch (diagonal) all screen OLED display, 2778 by 1284-pixel resolution at 458 ppi, The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
       "memory": "2TB",
       "img1": "https://www.apple.com/v/iphone-12-pro/f/images/specs/hero_iphone_12_pro_max__bjhv35s6o5bm_large.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 12,
       "category": "Iphone",
       "name": "Iphone 11",
       "description": "5G goes Pro. A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.",
-      "price":599,
+      "price": 599,
       "display": "Super Retina XDR display, 6.7 inch (diagonal) all screen OLED display, 2778 by 1284-pixel resolution at 458 ppi, The iPhone 12 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less).",
       "memory": "64GB",
       "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=441&amp;hei=529&amp;fmt=jpeg&amp;qlt=95&amp;.v=1567022175704"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 12,
       "category": "Iphone",
       "name": "Iphone 12",
       "description": "5G goes. A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.",
-      "price":699,
+      "price": 699,
       "display": "Super Retina XDR display, 6.1 inch (diagonal) all screen OLED display, 2532 by 1170-pixel resolution at 460 ppi, The iPhone 12 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally (actual viewable area is less).",
       "memory": "256GB",
       "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=441&amp;hei=529&amp;fmt=jpeg&amp;qlt=95&amp;.v=1567022175704"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 13,
       "category": "Iphone",
       "name": "Iphone SE",
       "description": "iPhone SE packs our powerful A13 Bionic chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for.",
-      "price":399,
+      "price": 399,
       "display": "Retina HD display, 4.7-inch (diagonal) widescreen LCD Multi Touch display with IPS technology, 1334-by-750-pixel resolution at 326 ppi, 1400:1 contrast ratio (typical), True, Tone display, Wide color display (P3), Haptic Touch, 625 nits max brightness (typical), Fingerprint-resistant oleophobic coating, Display Zoom, Reachability",
       "memory": "256GB",
       "img1": "https://www.apple.com/v/iphone-se/d/images/overview/hero_static__fei5virmzt26_large.jpg"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 14,
       "category": "Iphone",
       "name": "Iphone X",
       "description": "iPhone X packs our powerful A13 Bionic chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for.",
-      "price":499,
+      "price": 499,
       "display": "Retina HD display, 4.7-inch (diagonal) widescreen LCD Multi Touch display with IPS technology, 1334-by-750-pixel resolution at 326 ppi, 1400:1 contrast ratio (typical), True, Tone display, Wide color display (P3), Haptic Touch, 625 nits max brightness (typical), Fingerprint-resistant oleophobic coating, Display Zoom, Reachability",
       "memory": "256GB",
       "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-select-2019-family?wid=441&amp;hei=529&amp;fmt=jpeg&amp;qlt=95&amp;.v=1550795424612"
     },
     {
-      "comment": [{"email": "test1@gmail.com", "comment": "lorem"}],
+      "comment": [
+        {
+          "email": "test1@gmail.com",
+          "comment": "lorem"
+        }
+      ],
+      "favourites": [
+        {
+          "email": "test@gmail.com"
+        }
+      ],
       "id": 15,
       "category": "Iphone",
       "name": "Iphone 12 mini",
       "description": "5G goes. A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.",
-      "price":699,
+      "price": 699,
       "display": "Super Retina XDR display, 6.1 inch (diagonal) all screen OLED display, 2532 by 1170-pixel resolution at 460 ppi, The iPhone 12 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally (actual viewable area is less).",
       "memory": "256GB",
       "img1": "https://www.apple.com/v/iphone/compare/u/images/overview/compare_iphone12_black__dd4l4x5fmg66_large.jpg"
@@ -209,5 +378,4 @@
   "orders": [
     {}
   ]
-
 }

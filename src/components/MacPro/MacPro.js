@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 const MacPro = () => {
    return (
       <div>
-         <Link to="mac" style={{textDecoration: 'none'}}>
+         <Link to="/mac" style={{textDecoration: 'none'}}>
             <div className="main__imac">
                <h2 className="imac__title">iMac</h2>
                <h3 className="imac__title1">Say hello.</h3>

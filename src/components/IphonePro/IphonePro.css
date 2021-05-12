@@ -31,3 +31,11 @@
     font-size: 21px;
     font-weight: 400;
 }
+.ipadpro{
+    position: absolute;
+    top: 2000px;
+    left: 450px;
+}
+.pro{
+    cursor: pointer;
+}
